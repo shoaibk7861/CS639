@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shoaibkhan</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="next">Hobbies</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        I am Shoaib Khan from India. I did my Under Graduation in Electrical and Electronics Engineering from Christ University in Bangalore. I did an internship in Java (full-stack development). This is my Second semester at Pace. I have a keen interest in Java Programming Language and I know web technologies like HTML, NodeJS, CSS, and JavaScript. I am eager to join and learn the course with my classmates... \n\n
+
+Thank you!
+    </string>
+    <string name="action_fb_show_text">Email:SP05764N@pace.edu</string>
+    <string name="action_about">About</string>
+    <string name="contact">Contact</string>
+</resources>
